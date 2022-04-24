@@ -14,7 +14,7 @@ body {
 .container {
     width: 800px;
     height: 600px;
-    background: linear-gradient(45deg, #1068b6,#ec60a6);
+    background: linear-gradient(45deg, #106bb6,#ecd260);
     display: grid;
     grid-template: 100px 300px 100px 100px / repeat(8, 100px);
     margin: 100px auto 0;

@@ -34,7 +34,7 @@ AppelAPI = (long, lat) => {
         temperature.innerText = `${Math.trunc(resultAPI.current.temp)}°`;
         localisation.innerText = resultAPI.timezone;
 
-        //   les heurs par tranches de trois, avec leur température
+        //   les heures par tranches de trois, avec leur température
 
         let heureActuelle = new Date().getHours();
 
